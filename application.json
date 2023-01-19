@@ -24,6 +24,9 @@
     },
     {
       "uidString": "jsonpath_https://cdn.jsdelivr.net/npm/jsonpath@1.1.1/jsonpath.min.js"
+    },
+    {
+      "uidString": "UUID_https://cdn.jsdelivr.net/npm/uuidjs@4.2.12/src/uuid.min.js"
     }
   ],
   "publishedCustomJSLibs": [],
