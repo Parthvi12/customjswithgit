@@ -27,6 +27,9 @@
     },
     {
       "uidString": "jsonpath_https://cdn.jsdelivr.net/npm/jsonpath@1.1.1/jsonpath.min.js"
+    },
+    {
+      "uidString": "jspdf_https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"
     }
   ],
   "publishedCustomJSLibs": [],
