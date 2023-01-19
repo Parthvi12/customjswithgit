@@ -11,6 +11,9 @@
   "color": "#F4FFDE",
   "unpublishedCustomJSLibs": [
     {
+      "uidString": "imageCompression_https://cdn.jsdelivr.net/npm/browser-image-compression@2.0.0/dist/browser-image-compression.min.js"
+    },
+    {
       "uidString": "uzip_https://cdn.jsdelivr.net/npm/uzip-module@1.0.3/dist/uzip.js"
     },
     {
@@ -18,9 +21,6 @@
     },
     {
       "uidString": "AWS_https://sdk.amazonaws.com/js/aws-sdk-2.410.0.min.js"
-    },
-    {
-      "uidString": "imageCompression_https://cdn.jsdelivr.net/npm/browser-image-compression@2.0.0/dist/browser-image-compression.min.js"
     }
   ],
   "publishedCustomJSLibs": [],
