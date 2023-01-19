@@ -9,29 +9,7 @@
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "color": "#F4FFDE",
-  "unpublishedCustomJSLibs": [
-    {
-      "uidString": "imageCompression_https://cdn.jsdelivr.net/npm/browser-image-compression@2.0.0/dist/browser-image-compression.min.js"
-    },
-    {
-      "uidString": "uzip_https://cdn.jsdelivr.net/npm/uzip-module@1.0.3/dist/uzip.js"
-    },
-    {
-      "uidString": "jsonwebtoken_/libraries/jsonwebtoken@8.5.1.js"
-    },
-    {
-      "uidString": "jspdf_https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"
-    },
-    {
-      "uidString": "UUID_https://cdn.jsdelivr.net/npm/uuidjs@4.2.12/src/uuid.min.js"
-    },
-    {
-      "uidString": "AWS_https://sdk.amazonaws.com/js/aws-sdk-2.410.0.min.js"
-    },
-    {
-      "uidString": "jsonpath_https://cdn.jsdelivr.net/npm/jsonpath@1.1.1/jsonpath.min.js"
-    }
-  ],
+  "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
