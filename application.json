@@ -9,11 +9,7 @@
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "color": "#F4FFDE",
-  "unpublishedCustomJSLibs": [
-    {
-      "uidString": "i18next_https://cdn.jsdelivr.net/npm/i18next@22.1.4/dist/umd/i18next.min.js"
-    }
-  ],
+  "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
