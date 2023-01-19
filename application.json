@@ -23,10 +23,10 @@
       "uidString": "jspdf_https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"
     },
     {
-      "uidString": "UUID_https://cdn.jsdelivr.net/npm/uuidjs@4.2.12/src/uuid.min.js"
+      "uidString": "AWS_https://sdk.amazonaws.com/js/aws-sdk-2.410.0.min.js"
     },
     {
-      "uidString": "AWS_https://sdk.amazonaws.com/js/aws-sdk-2.410.0.min.js"
+      "uidString": "UUID_https://cdn.jsdelivr.net/npm/uuidjs@4.2.12/src/uuid.min.js"
     },
     {
       "uidString": "jsonpath_https://cdn.jsdelivr.net/npm/jsonpath@1.1.1/jsonpath.min.js"
