@@ -11,13 +11,13 @@
   "color": "#F4FFDE",
   "unpublishedCustomJSLibs": [
     {
+      "uidString": "uzip_https://cdn.jsdelivr.net/npm/uzip-module@1.0.3/dist/uzip.js"
+    },
+    {
       "uidString": "jsonwebtoken_/libraries/jsonwebtoken@8.5.1.js"
     },
     {
       "uidString": "AWS_https://sdk.amazonaws.com/js/aws-sdk-2.410.0.min.js"
-    },
-    {
-      "uidString": "uzip_https://cdn.jsdelivr.net/npm/uzip-module@1.0.3/dist/uzip.js"
     }
   ],
   "publishedCustomJSLibs": [],
